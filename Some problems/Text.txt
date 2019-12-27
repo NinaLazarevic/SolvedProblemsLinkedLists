@@ -1,0 +1,13 @@
+Problem 1:
+
+Implement function for sorting linked list in descending order.
+
+Problem 2:
+
+Implement function which will move part of linked list between values val1 and val2 to the end of linked list. 
+Pointer Tail (end of linked list) can't be used. Values in list are unique, val1 and val 2 exist in list, and val1 is behind val2.
+
+Problem 3:
+
+Implement function which will find node with value key and move it two nodes forward. If it's not possible to move it forward,
+then move it at the begining of list.
